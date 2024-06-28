@@ -20,7 +20,7 @@ WeatherAppGUI is a Python application with a graphical user interface (GUI) buil
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/WeatherAppGUI.git
+    git clone https://github.com/saksham342/WeatherAppGUI.git
     cd WeatherAppGUI
     ```
 
