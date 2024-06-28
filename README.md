@@ -41,7 +41,7 @@ WeatherAppGUI is a Python application with a graphical user interface (GUI) buil
 3. Run the application:
 
     ```sh
-    python weather_app_gui.py
+    python WeatherAppGUI.py
     ```
 
 4. Enter the name of the city when prompted, or search for a city from the list.
